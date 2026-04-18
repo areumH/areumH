@@ -8,6 +8,7 @@
 - [GJ NEWS](https://github.com/areumH/GJ-NEWS) - Google NLP 기반 긍정 뉴스 큐레이션 서비스 
 
 ### 📚 Education
+- JECT IT 사이드 프로젝트 동아리 2기 / 메이커스
 - 항해99 플러스 프론트엔드 6기 수료
 - 코멘토 프론트엔드 웹개발 직무부트캠프 수료
 
